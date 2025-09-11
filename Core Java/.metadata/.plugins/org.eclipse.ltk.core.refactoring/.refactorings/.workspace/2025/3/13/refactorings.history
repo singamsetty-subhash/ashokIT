@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Collections_ArrayBlockingQueue&apos; to &apos;Collections_BlockingQueue&apos;" description="Rename resource &apos;Collections_ArrayBlockingQueue&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Collections_ArrayBlockingQueue" name="Collections_BlockingQueue" stamp="1742913839205" updateReferences="true"/>
+</session>

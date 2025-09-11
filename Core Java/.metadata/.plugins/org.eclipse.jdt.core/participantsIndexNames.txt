@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\subbu\Full stack prgms\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\609073267.index
+\shoppingcart\src\java
+D:\subbu\Full stack prgms\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2817853123.index
+\shoppingcart\src\java

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Swaping_Of2numbers.java&apos; to &apos;Swaping_Of_2_Strings.java&apos;&#x0D;&#x0A;- Original project: &apos;Strings&apos;&#x0D;&#x0A;- Original element: &apos;Swaping_Of2numbers.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Swaping_Of_2_Strings.java&apos;" description="Rename compilation unit &apos;Swaping_Of2numbers.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Swaping_Of2numbers.java" name="Swaping_Of_2_Strings.java" references="false" stamp="1737525011516" version="1.0"/>
+</session>

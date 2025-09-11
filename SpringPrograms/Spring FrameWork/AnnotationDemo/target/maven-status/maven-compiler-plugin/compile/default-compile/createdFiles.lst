@@ -1,0 +1,5 @@
+compack\service\MovieService.class
+compack\config\AppConfig.class
+compack\main\Main.class
+compack\repository\MovieRepository.class
+compack\model\Movie.class

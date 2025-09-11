@@ -1,0 +1,9 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="user" class="com.pack.beans.User">
+<property name="passwordencoder" ref="pwd"/>
+</bean>
+<bean id="pwd" class="com.pack.beans.PasswordEncoder">
+</bean>
+</beans>
